@@ -1,2 +1,1 @@
-# lua-action
 lua projects
