@@ -1,0 +1,2 @@
+local num
+print(num)
